@@ -1,0 +1,2 @@
+# void ExtraChar.BlueSphere.drawCharacterBumperSprite
+

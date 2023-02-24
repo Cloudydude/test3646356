@@ -1,0 +1,2 @@
+# void ExtraChar.Competition.drawCharacterSprite
+
